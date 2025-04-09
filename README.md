@@ -96,8 +96,6 @@ Tensão, paranoia, curiosidade, desesperança e superação.
 - Ambientes “psicológicos”, que se transformam de acordo com o estado mental.
 - Narrativa fragmentada que o jogador recompõe de forma não linear.
 
----
-
 ## 👥 Funções da equipe
 
 - Game Designer / Miguel e Cristhofer: Mecânicas, narrativa e balanceamento.
@@ -138,3 +136,5 @@ Tensão, paranoia, curiosidade, desesperança e superação.
 | Agosto-Outubro | Arte, som, polimento |
 | Novembro | Testes finais |
 | Dezembro | Lançamento 🎉 | -->
+
+---
