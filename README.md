@@ -98,39 +98,41 @@ Tensão, paranoia, curiosidade, desesperança e superação.
 
 ---
 
-<!-- ## 👥 Funções da equipe
+👥 Funções da equipe
 
-- **Game Designer**: Mecânicas, narrativa e balanceamento.
-- **Programador Unity**: Implementação da lógica, IA e eventos.
-- **Artista 2D/3D**: Criação de cenários, HUD, inimigos e efeitos visuais.
-- **Sound Designer**: Ambiência, vozes e efeitos psicológicos.
-- **Roteirista/Narrativa**: Escrita dos eventos, falas e múltiplos finais.
-- **Produtor/Gerente de Projeto**: Cronograma, escopo e milestones.
+- Game Designer / Miguel e Cristhofer: Mecânicas, narrativa e balanceamento.
+- Programador Unity / Miguel, Bárbara, Cristhofer: Implementação da lógica e eventos.
+- Artista 2D/3D / Bárbara: Criação de cenários, HUD, inimigos e efeitos visuais.
+- Sound Designer / Bárbara: Ambiência, vozes e efeitos psicológicos.
+- Roteirista/Narrativa / Cristhofer e Bárbara: Escrita dos eventos, falas e múltiplos finais.
+- Produtor/Gerente de Projeto / Cristhofer e Miguel: Cronograma, escopo e milestones.
 
 ## 📉 Gerenciamento de escopo
 
-### Luz Verde (Essencial)
-- Mecânica de sanidade.
-- Combate por turnos simples.
-- Sistema de eventos narrativos.
-- Arte 2D/3D estática.
+✅ Luz Verde (Essencial)
+-Narrativa: Estrutura principal de eventos.
+-Arte 2D que sustente a atmosfera do jogo: Cenários, personagens e HUD estáticos e imersivos.
+-Efeitos visuais: Luzes, sombras e elementos visuais que contribuem para a ambientação.
+-Efeitos sonoros: Sons ambientes, passos e trilha base.
+-Sistema de morte: Consequências definitivas que reforçam a tensão e a sobrevivência.
 
-### Luz Amarela (Flexível)
-- Animações específicas para cada estado mental.
-- Dublagem dos eventos importantes.
-- Múltiplos tipos de inimigos únicos.
+🟡 Luz Amarela (Flexível)
+-Animações específicas para cada estado mental: Mudanças visuais no personagem e ambiente conforme a sanidade se altera.
+-Eventos narrativos dublados: Vozes que dão vida a certos momentos ou personagens.
+-Sistema de crafting limitado: Criação de itens simples com recursos encontrados.
+-Múltiplos tipos de inimigos com comportamentos únicos.
 
-### Luz Vermelha (Corte)
-- Multiplayer.
-- Mundo aberto.
-- Integrações complexas com servidores/cloud.
+🔴 Luz Vermelha (Corte)-Multiplayer ou co-op online.
+-Mundo aberto com exploração livre.
+-Integração com servidores ou funcionalidades online complexas.
+-Sistema de criação de personagem personalizado.
 
 ### 📅 Cronograma
 
 | Mês | Tarefa |
 |-----|--------|
-| Abril | Prototipagem inicial e sistema de sanidade |
-| Maio | Sistema de escolhas e combates básicos |
+| Abril | Prototipagem inicial e sistema de sobrevivência |
+| Maio | Sistema de sobrevivência e combates básicos |
 | Junho | Implementação de eventos e narrativa |
 | Julho | Versão jogável (alfa) + feedback |
 | Agosto-Outubro | Arte, som, polimento |
