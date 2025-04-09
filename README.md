@@ -98,7 +98,7 @@ Tensão, paranoia, curiosidade, desesperança e superação.
 
 ---
 
-👥 Funções da equipe
+## 👥 Funções da equipe
 
 - Game Designer / Miguel e Cristhofer: Mecânicas, narrativa e balanceamento.
 - Programador Unity / Miguel, Bárbara, Cristhofer: Implementação da lógica e eventos.
