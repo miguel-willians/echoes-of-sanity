@@ -110,22 +110,22 @@ Tensão, paranoia, curiosidade, desesperança e superação.
 ## 📉 Gerenciamento de escopo
 
 ✅ Luz Verde (Essencial)
--Narrativa: Estrutura principal de eventos.
--Arte 2D que sustente a atmosfera do jogo: Cenários, personagens e HUD estáticos e imersivos.
--Efeitos visuais: Luzes, sombras e elementos visuais que contribuem para a ambientação.
--Efeitos sonoros: Sons ambientes, passos e trilha base.
--Sistema de morte: Consequências definitivas que reforçam a tensão e a sobrevivência.
+- Narrativa: Estrutura principal de eventos.
+- Arte 2D que sustente a atmosfera do jogo: Cenários, personagens e HUD estáticos e imersivos.
+- Efeitos visuais: Luzes, sombras e elementos visuais que contribuem para a ambientação.
+- Efeitos sonoros: Sons ambientes, passos e trilha base.
+- Sistema de morte: Consequências definitivas que reforçam a tensão e a sobrevivência.
 
 🟡 Luz Amarela (Flexível)
--Animações específicas para cada estado mental: Mudanças visuais no personagem e ambiente conforme a sanidade se altera.
--Eventos narrativos dublados: Vozes que dão vida a certos momentos ou personagens.
--Sistema de crafting limitado: Criação de itens simples com recursos encontrados.
--Múltiplos tipos de inimigos com comportamentos únicos.
+- Animações específicas para cada estado mental: Mudanças visuais no personagem e ambiente conforme a sanidade se altera.
+- Eventos narrativos dublados: Vozes que dão vida a certos momentos ou personagens.
+- Sistema de crafting limitado: Criação de itens simples com recursos encontrados.
+- Múltiplos tipos de inimigos com comportamentos únicos.
 
 🔴 Luz Vermelha (Corte)-Multiplayer ou co-op online.
--Mundo aberto com exploração livre.
--Integração com servidores ou funcionalidades online complexas.
--Sistema de criação de personagem personalizado.
+- Mundo aberto com exploração livre.
+- Integração com servidores ou funcionalidades online complexas.
+- Sistema de criação de personagem personalizado.
 
 ### 📅 Cronograma
 
