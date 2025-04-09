@@ -131,8 +131,8 @@ Tensão, paranoia, curiosidade, desesperança e superação.
 
 | Mês | Tarefa |
 |-----|--------|
-| Abril | Prototipagem inicial e sistema de sobrevivência |
-| Maio | Sistema de sobrevivência e combates básicos |
+| Abril | Prototipagem inicial e sistema de sanidade |
+| Maio | Sistema de sanidade e criação de inimigos  |
 | Junho | Implementação de eventos e narrativa |
 | Julho | Versão jogável (alfa) + feedback |
 | Agosto-Outubro | Arte, som, polimento |
